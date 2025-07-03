@@ -1,0 +1,88 @@
+/* General container styling */
+.flashcard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #f0f4ff, #d0e3ff);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Flashcard styling */
+.flashcard {
+  width: 450px;
+  height: 400px;
+  perspective: 1000px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.flashcard .front,
+.flashcard .back {
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  background-color: white;
+  backface-visibility: hidden;
+  transition: transform 0.6s ease-in-out;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+
+.flashcard .front img {
+  max-width: 100%;
+  height: 200px;
+  object-fit: contain;
+  border-radius: 12px;
+  margin-bottom: 16px;
+}
+
+.flashcard .front h3 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.flashcard .back {
+  transform: rotateY(180deg);
+  text-align: center;
+  font-size: 1.2rem;
+  color: #444;
+  padding: 20px;
+}
+
+.flashcard.flipped .front {
+  transform: rotateY(180deg);
+}
+
+.flashcard.flipped .back {
+  transform: rotateY(360deg);
+}
+
+.flashcard .front,
+.flashcard .back {
+  position: absolute;
+}
+
+/* Next button styling */
+button {
+  background-color: #4f8ef7;
+  color: white;
+  padding: 10px 24px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #346fd6;
+}

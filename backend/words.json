@@ -1,0 +1,1002 @@
+[
+    {
+        "word": "forest",
+        "definition": "A large area covered chiefly with trees and undergrowth.",
+        "imageUrl": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d"
+    },
+    {
+        "word": "mountain",
+        "definition": "A large natural elevation of the Earth's surface.",
+        "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    },
+    {
+        "word": "river",
+        "definition": "A large natural stream of water flowing to the sea, a lake, or another river.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+        "word": "ocean",
+        "definition": "A vast body of salt water that covers most of the Earth.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+        "word": "volcano",
+        "definition": "A mountain or hill with a crater through which lava erupts.",
+        "imageUrl": "https://images.unsplash.com/photo-1613419788937-8d2c485ed6e5"
+    },
+    {
+        "word": "earthquake",
+        "definition": "A sudden violent shaking of the ground.",
+        "imageUrl": "https://images.unsplash.com/photo-1584348886121-78a4e94ed35d"
+    },
+    {
+        "word": "glacier",
+        "definition": "A slowly moving mass of ice.",
+        "imageUrl": "https://images.unsplash.com/photo-1615393602366-7882956b6e7c"
+    },
+    {
+        "word": "rainforest",
+        "definition": "A dense forest in a tropical region with lots of rain.",
+        "imageUrl": "https://images.unsplash.com/photo-1564608223510-94a1d35a4b5b"
+    },
+    {
+        "word": "desert",
+        "definition": "A dry, barren area of land, typically covered with sand.",
+        "imageUrl": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+    },
+    {
+        "word": "island",
+        "definition": "A piece of land surrounded by water.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+        "word": "sunrise",
+        "definition": "The moment when the sun appears above the horizon in the morning.",
+        "imageUrl": "https://images.unsplash.com/photo-1501966641060-6b2e6ba34b4b"
+    },
+    {
+        "word": "waterfall",
+        "definition": "A cascade of water falling from a height.",
+        "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b"
+    },
+    {
+        "word": "canyon",
+        "definition": "A deep gorge, typically one with a river flowing through it.",
+        "imageUrl": "https://images.unsplash.com/photo-1515270539872-191596718f6e"
+    },
+    {
+        "word": "cliff",
+        "definition": "A steep rock face, especially at the edge of the sea or a river.",
+        "imageUrl": "https://images.unsplash.com/photo-1504269046999-29c9ddb4415f"
+    },
+    {
+        "word": "meadow",
+        "definition": "A field of grassland, often used for hay.",
+        "imageUrl": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f"
+    },
+    {
+        "word": "prairie",
+        "definition": "A large open area of grassland, especially in North America.",
+        "imageUrl": "https://images.unsplash.com/photo-1505489304214-29dbd0b6a231"
+    },
+    {
+        "word": "savanna",
+        "definition": "A grassy plain in tropical and subtropical regions, with few trees.",
+        "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    },
+    {
+        "word": "reef",
+        "definition": "A ridge of jagged rock, coral, or sand just above or below the sea surface.",
+        "imageUrl": "https://images.unsplash.com/photo-1501889088098-0e460a7f9c6a"
+    },
+    {
+        "word": "lagoon",
+        "definition": "A shallow body of water separated from a larger sea by sandbars or coral reefs.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+        "word": "dune",
+        "definition": "A mound or ridge of sand formed by the wind.",
+        "imageUrl": "https://images.unsplash.com/photo-1510337550647-47df19abf8c7"
+    },
+    {
+        "word": "estuary",
+        "definition": "The tidal mouth of a large river, where the tide meets the stream.",
+        "imageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29"
+    },
+    {
+        "word": "tundra",
+        "definition": "A vast, flat, treeless Arctic region with frozen subsoil.",
+        "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2"
+    },
+    {
+        "word": "savannah",
+        "definition": "A grassy plain with scattered trees, characteristic of tropical regions.",
+        "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    },
+    {
+        "word": "cloud",
+        "definition": "A visible mass of condensed water vapor floating in the atmosphere.",
+        "imageUrl": "https://images.unsplash.com/photo-1501973801540-537f08ccae7d"
+    },
+    {
+        "word": "mist",
+        "definition": "A collection of tiny water droplets suspended in the air near the ground.",
+        "imageUrl": "https://images.unsplash.com/photo-1509537254218-24abd475cc27"
+    },
+    {
+        "word": "rainbow",
+        "definition": "A meteorological phenomenon caused by reflection and refraction of sunlight in water droplets.",
+        "imageUrl": "https://images.unsplash.com/photo-1506089676908-3592f7388d00"
+    },
+    {
+        "word": "horizon",
+        "definition": "The line at which the earth’s surface and the sky appear to meet.",
+        "imageUrl": "https://images.unsplash.com/photo-1500534609162-561b43f514d3"
+    },
+    {
+        "word": "cave",
+        "definition": "A large underground chamber, typically of natural origin.",
+        "imageUrl": "https://images.unsplash.com/photo-1501973801540-537f08ccae7d"
+    },
+    {
+        "word": "peak",
+        "definition": "The pointed top of a mountain.",
+        "imageUrl": "https://images.unsplash.com/photo-1504198266283-4fe5409a01ab"
+    },
+    {
+        "word": "geyser",
+        "definition": "A hot spring in which water intermittently boils, sending a tall column of water and steam into the air.",
+        "imageUrl": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+    },
+    {
+        "word": "marsh",
+        "definition": "A wetland area, typically covered with grasses.",
+        "imageUrl": "https://images.unsplash.com/photo-1506765515384-028b60a970df"
+    },
+    {
+        "word": "swamp",
+        "definition": "A waterlogged lowland area, typically forested.",
+        "imageUrl": "https://images.unsplash.com/photo-1506680822569-82a0495438b1"
+    },
+    {
+        "word": "plain",
+        "definition": "A large area of flat land with few trees.",
+        "imageUrl": "https://images.unsplash.com/photo-1505489304214-29dbd0b6a231"
+    },
+    {
+        "word": "peak",
+        "definition": "The pointed top of a mountain.",
+        "imageUrl": "https://images.unsplash.com/photo-1504198266283-4fe5409a01ab"
+    },
+    {
+        "word": "ridge",
+        "definition": "A long narrow hilltop, mountain range, or watershed.",
+        "imageUrl": "https://images.unsplash.com/photo-1501973801540-537f08ccae7d"
+    },
+    {
+        "word": "plateau",
+        "definition": "An area of relatively level high ground.",
+        "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2"
+    },
+    {
+        "word": "savannah",
+        "definition": "A grassy plain in tropical and subtropical regions.",
+        "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    },
+    {
+        "word": "lagoon",
+        "definition": "A shallow body of water separated from a larger body of water.",
+        "imageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29"
+    },
+    {
+        "word": "cataract",
+        "definition": "A large waterfall.",
+        "imageUrl": "https://images.unsplash.com/photo-1501854140801-50d01698950b"
+    },
+    {
+        "word": "delta",
+        "definition": "A landform at the mouth of a river where it splits into several outlets.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+        "word": "fjord",
+        "definition": "A long, deep, narrow inlet with steep cliffs, created by glacial erosion.",
+        "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2"
+    },
+    {
+        "word": "oasis",
+        "definition": "A fertile spot in a desert where water is found.",
+        "imageUrl": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+    },
+    {
+        "word": "peninsula",
+        "definition": "A piece of land almost surrounded by water or projecting out into a body of water.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+        "word": "archipelago",
+        "definition": "A group of islands.",
+        "imageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29"
+    },
+    {
+        "word": "geyser",
+        "definition": "A hot spring that intermittently sends up jets of water and steam.",
+        "imageUrl": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+    },
+    {
+        "word": "canyon",
+        "definition": "A deep gorge, typically with a river flowing through it.",
+        "imageUrl": "https://images.unsplash.com/photo-1515270539872-191596718f6e"
+    },
+    {
+        "word": "savannah",
+        "definition": "A grassy plain in tropical and subtropical regions.",
+        "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    },
+    {
+        "word": "delta",
+        "definition": "A landform at the mouth of a river where it splits into several outlets.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+        "word": "tundra",
+        "definition": "A vast, flat, treeless Arctic region with frozen subsoil.",
+        "imageUrl": "https://images.unsplash.com/photo-1508672019048-805c876b67e2"
+    },
+    {
+        "word": "marsh",
+        "definition": "A wetland area, typically covered with grasses.",
+        "imageUrl": "https://images.unsplash.com/photo-1506765515384-028b60a970df"
+    },
+    {
+        "word": "swamp",
+        "definition": "A waterlogged lowland area, typically forested.",
+        "imageUrl": "https://images.unsplash.com/photo-1506680822569-82a0495438b1"
+    },
+    {
+        "word": "oasis",
+        "definition": "A fertile spot in a desert with water.",
+        "imageUrl": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+    },
+    {
+        "word": "breeze",
+        "definition": "A gentle wind.",
+        "imageUrl": " "
+    },
+    {
+        "word": "climate",
+        "definition": "The weather conditions prevailing in an area.",
+        "imageUrl": " "
+    },
+    {
+        "word": "dew",
+        "definition": "Tiny drops of water that form on cool surfaces at night.",
+        "imageUrl": " "
+    },
+    {
+        "word": "eruption",
+        "definition": "An outburst or explosion, especially from a volcano.",
+        "imageUrl": " "
+    },
+    {
+        "word": "flood",
+        "definition": "An overflow of a large amount of water beyond normal limits.",
+        "imageUrl": " "
+    },
+    {
+        "word": "fog",
+        "definition": "Thick cloud of tiny water droplets suspended in the atmosphere.",
+        "imageUrl": " "
+    },
+    {
+        "word": "frost",
+        "definition": "A deposit of small white ice crystals on the ground.",
+        "imageUrl": " "
+    },
+    {
+        "word": "hail",
+        "definition": "Pellets of frozen rain.",
+        "imageUrl": " "
+    },
+    {
+        "word": "heatwave",
+        "definition": "A prolonged period of excessively hot weather.",
+        "imageUrl": " "
+    },
+    {
+        "word": "hurricane",
+        "definition": "A violent windstorm with heavy rain.",
+        "imageUrl": " "
+    },
+    {
+        "word": "landscape",
+        "definition": "All the visible features of an area of land.",
+        "imageUrl": " "
+    },
+    {
+        "word": "lightning",
+        "definition": "A sudden electrostatic discharge during a storm.",
+        "imageUrl": " "
+    },
+    {
+        "word": "monsoon",
+        "definition": "Seasonal reversing wind accompanied by changes in rainfall.",
+        "imageUrl": " "
+    },
+    {
+        "word": "nature",
+        "definition": "The physical world including plants, animals, and landscapes.",
+        "imageUrl": " "
+    },
+    {
+        "word": "pasture",
+        "definition": "Land covered with grass for grazing animals.",
+        "imageUrl": " "
+    },
+    {
+        "word": "pond",
+        "definition": "A small body of still water.",
+        "imageUrl": " "
+    },
+    {
+        "word": "rain",
+        "definition": "Water that falls from clouds in drops.",
+        "imageUrl": " "
+    },
+    {
+        "word": "sandstorm",
+        "definition": "A storm caused by strong winds in sandy deserts.",
+        "imageUrl": " "
+    },
+    {
+        "word": "season",
+        "definition": "Each of the four divisions of the year.",
+        "imageUrl": " "
+    },
+    {
+        "word": "sky",
+        "definition": "The region of the atmosphere seen from the earth.",
+        "imageUrl": " "
+    },
+    {
+        "word": "snow",
+        "definition": "Frozen water vapor falling as white flakes.",
+        "imageUrl": " "
+    },
+    {
+        "word": "soil",
+        "definition": "The upper layer of earth where plants grow.",
+        "imageUrl": " "
+    },
+    {
+        "word": "storm",
+        "definition": "A violent disturbance in the atmosphere.",
+        "imageUrl": " "
+    },
+    {
+        "word": "sun",
+        "definition": "The star at the center of our solar system.",
+        "imageUrl": " "
+    },
+    {
+        "word": "temperature",
+        "definition": "The degree of heat present in a substance or object.",
+        "imageUrl": " "
+    },
+    {
+        "word": "thunder",
+        "definition": "The sound caused by lightning.",
+        "imageUrl": " "
+    },
+    {
+        "word": "tidal wave",
+        "definition": "A large ocean wave caused by seismic activity.",
+        "imageUrl": " "
+    },
+    {
+        "word": "tornado",
+        "definition": "A mobile, destructive vortex of violently rotating winds.",
+        "imageUrl": " "
+    },
+    {
+        "word": "tsunami",
+        "definition": "A long high sea wave caused by an underwater earthquake.",
+        "imageUrl": " "
+    },
+    {
+        "word": "valley",
+        "definition": "A low area of land between hills or mountains.",
+        "imageUrl": " "
+    },
+    {
+        "word": "vegetation",
+        "definition": "Plants considered collectively in an area.",
+        "imageUrl": " "
+    },
+    {
+        "word": "volcano",
+        "definition": "A mountain that can erupt with lava and gases.",
+        "imageUrl": " "
+    },
+    {
+        "word": "weather",
+        "definition": "The state of the atmosphere at a place and time.",
+        "imageUrl": " "
+    },
+    {
+        "word": "whirlwind",
+        "definition": "A column of air moving rapidly round and round.",
+        "imageUrl": " "
+    },
+    {
+        "word": "wildfire",
+        "definition": "A large, destructive fire that spreads quickly in the wild.",
+        "imageUrl": " "
+    },
+    {
+        "word": "wind",
+        "definition": "The natural movement of air.",
+        "imageUrl": " "
+    },
+    {
+        "word": "zenith",
+        "definition": "The highest point in the sky directly above an observer.",
+        "imageUrl": " "
+    },
+    {
+        "word": "blizzard",
+        "definition": "A severe snowstorm with high winds.",
+        "imageUrl": " "
+    },
+    {
+        "word": "canopy",
+        "definition": "The upper layer of a forest formed by tree crowns.",
+        "imageUrl": " "
+    },
+    {
+        "word": "crater",
+        "definition": "A bowl-shaped depression formed by volcanic activity.",
+        "imageUrl": " "
+    },
+    {
+        "word": "delta",
+        "definition": "A landform at the mouth of a river.",
+        "imageUrl": " "
+    },
+    {
+        "word": "gulf",
+        "definition": "A large area of sea partially enclosed by land.",
+        "imageUrl": " "
+    },
+    {
+        "word": "habitat",
+        "definition": "The natural home or environment of an animal or plant.",
+        "imageUrl": " "
+    },
+    {
+        "word": "horizon",
+        "definition": "The line at which earth and sky appear to meet.",
+        "imageUrl": " "
+    },
+    {
+        "word": "iceberg",
+        "definition": "A large floating mass of ice.",
+        "imageUrl": " "
+    },
+    {
+        "word": "jungle",
+        "definition": "An area of dense forest in tropical regions.",
+        "imageUrl": " "
+    },
+    {
+        "word": "lava",
+        "definition": "Hot molten rock expelled by a volcano.",
+        "imageUrl": " "
+    },
+    {
+        "word": "moisture",
+        "definition": "Water or other liquid diffused in a small quantity.",
+        "imageUrl": " "
+    },
+    {
+        "word": "natural",
+        "definition": "Existing in or caused by nature.",
+        "imageUrl": " "
+    },
+    {
+        "word": "rainfall",
+        "definition": "The amount of rain that falls in a period of time.",
+        "imageUrl": " "
+    },
+    {
+        "word": "erosion",
+        "definition": "The process by which soil and rock are removed from the Earth's surface.",
+        "imageUrl": " "
+    },
+    {
+        "word": "current",
+        "definition": "A body of water or air moving in a definite direction.",
+        "imageUrl": " "
+    },
+    {
+        "word": "equator",
+        "definition": "An imaginary line around the middle of the Earth.",
+        "imageUrl": " "
+    },
+    {
+        "word": "flora",
+        "definition": "Plants of a particular region or period.",
+        "imageUrl": " "
+    },
+    {
+        "word": "fauna",
+        "definition": "Animals of a particular region or period.",
+        "imageUrl": " "
+    },
+    {
+        "word": "eclipse",
+        "definition": "The partial or total blocking of one celestial body by another.",
+        "imageUrl": " "
+    },
+    {
+        "word": "gale",
+        "definition": "A strong wind.",
+        "imageUrl": " "
+    },
+    {
+        "word": "greenhouse",
+        "definition": "A glass building used to grow plants in controlled conditions.",
+        "imageUrl": " "
+    },
+    {
+        "word": "humidity",
+        "definition": "The amount of water vapor in the air.",
+        "imageUrl": " "
+    },
+    {
+        "word": "jet stream",
+        "definition": "Fast flowing, narrow air currents in the atmosphere.",
+        "imageUrl": " "
+    },
+    {
+        "word": "latitude",
+        "definition": "Distance north or south of the Equator.",
+        "imageUrl": " "
+    },
+    {
+        "word": "longitude",
+        "definition": "Distance east or west of the prime meridian.",
+        "imageUrl": " "
+    },
+    {
+        "word": "meteor",
+        "definition": "A small body from space that enters Earth's atmosphere.",
+        "imageUrl": " "
+    },
+    {
+        "word": "monolith",
+        "definition": "A large single upright block of stone.",
+        "imageUrl": " "
+    },
+    {
+        "word": "mudslide",
+        "definition": "A mass of mud sliding down a slope.",
+        "imageUrl": " "
+    },
+    {
+        "word": "natural disaster",
+        "definition": "A natural event causing great damage or loss of life.",
+        "imageUrl": " "
+    },
+    {
+        "word": "northern lights",
+        "definition": "A natural light display in the Earth's sky.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ozone",
+        "definition": "A form of oxygen found in Earth's upper atmosphere.",
+        "imageUrl": " "
+    },
+    {
+        "word": "precipitation",
+        "definition": "Any form of water - liquid or solid - that falls from clouds.",
+        "imageUrl": " "
+    },
+    {
+        "word": "quicksand",
+        "definition": "Loose wet sand that yields easily to pressure.",
+        "imageUrl": " "
+    },
+    {
+        "word": "reservoir",
+        "definition": "A natural or artificial lake used to store water.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ridge",
+        "definition": "A long narrow elevation of land.",
+        "imageUrl": " "
+    },
+    {
+        "word": "seismic",
+        "definition": "Related to earthquakes or other vibrations of the Earth.",
+        "imageUrl": " "
+    },
+    {
+        "word": "sleet",
+        "definition": "Frozen raindrops that bounce on impact.",
+        "imageUrl": " "
+    },
+    {
+        "word": "solstice",
+        "definition": "The time when the sun is at its greatest distance from the equator.",
+        "imageUrl": " "
+    },
+    {
+        "word": "strait",
+        "definition": "A narrow passage of water connecting two seas.",
+        "imageUrl": " "
+    },
+    {
+        "word": "tectonic",
+        "definition": "Relating to Earth's crust and its movements.",
+        "imageUrl": " "
+    },
+    {
+        "word": "terrain",
+        "definition": "A stretch of land, especially with regard to its physical features.",
+        "imageUrl": " "
+    },
+    {
+        "word": "thermal",
+        "definition": "Related to heat or temperature.",
+        "imageUrl": " "
+    },
+    {
+        "word": "thunderstorm",
+        "definition": "A storm with thunder, lightning, and rain.",
+        "imageUrl": " "
+    },
+    {
+        "word": "tidal",
+        "definition": "Relating to or affected by tides.",
+        "imageUrl": " "
+    },
+    {
+        "word": "topography",
+        "definition": "The arrangement of natural features in an area.",
+        "imageUrl": " "
+    },
+    {
+        "word": "tremor",
+        "definition": "A slight earthquake.",
+        "imageUrl": " "
+    },
+    {
+        "word": "tropics",
+        "definition": "The region of Earth near the Equator.",
+        "imageUrl": " "
+    },
+    {
+        "word": "typhoon",
+        "definition": "A mature tropical cyclone in the western Pacific.",
+        "imageUrl": " "
+    },
+    {
+        "word": "updraft",
+        "definition": "An upward current of air.",
+        "imageUrl": " "
+    },
+    {
+        "word": "volcanic ash",
+        "definition": "Small particles of rock and glass from a volcanic eruption.",
+        "imageUrl": " "
+    },
+    {
+        "word": "vortex",
+        "definition": "A whirling mass of air, water, or fire.",
+        "imageUrl": " "
+    },
+    {
+        "word": "watershed",
+        "definition": "An area of land that separates waters flowing to different rivers.",
+        "imageUrl": " "
+    },
+    {
+        "word": "weathering",
+        "definition": "The breaking down of rocks by weather.",
+        "imageUrl": " "
+    },
+    {
+        "word": "wetland",
+        "definition": "Land consisting of marshes or swamps.",
+        "imageUrl": " "
+    },
+    {
+        "word": "wildlife",
+        "definition": "Animals living naturally in an area.",
+        "imageUrl": " "
+    },
+    {
+        "word": "windstorm",
+        "definition": "A storm with high winds but little or no rain.",
+        "imageUrl": " "
+    },
+    {
+        "word": "zen garden",
+        "definition": "A Japanese rock garden for meditation.",
+        "imageUrl": " "
+    },
+    {
+        "word": "glacier",
+        "definition": "A slowly moving mass of ice.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ice cap",
+        "definition": "A covering of ice over a large area.",
+        "imageUrl": " "
+    },
+    {
+        "word": "basin",
+        "definition": "A natural depression on the Earth's surface, typically containing water.",
+        "imageUrl": " "
+    },
+    {
+        "word": "geyser",
+        "definition": "A hot spring that periodically erupts.",
+        "imageUrl": " "
+    },
+    {
+        "word": "avalanche",
+        "definition": "A large mass of snow, ice, and rocks falling rapidly down a mountainside.",
+        "imageUrl": " "
+    },
+    {
+        "word": "bay",
+        "definition": "A broad inlet of the sea where the land curves inward.",
+        "imageUrl": " "
+    },
+    {
+        "word": "biome",
+        "definition": "A large naturally occurring community of flora and fauna.",
+        "imageUrl": " "
+    },
+    {
+        "word": "brook",
+        "definition": "A small stream.",
+        "imageUrl": " "
+    },
+    {
+        "word": "cave",
+        "definition": "A large underground chamber.",
+        "imageUrl": " "
+    },
+    {
+        "word": "channel",
+        "definition": "A length of water wider than a strait, joining two larger areas of water.",
+        "imageUrl": " "
+    },
+    {
+        "word": "clearing",
+        "definition": "An open space in a forest.",
+        "imageUrl": " "
+    },
+    {
+        "word": "coast",
+        "definition": "The part of the land near the sea.",
+        "imageUrl": " "
+    },
+    {
+        "word": "crust",
+        "definition": "The outermost layer of the Earth.",
+        "imageUrl": " "
+    },
+    {
+        "word": "cyclone",
+        "definition": "A system of winds rotating inward to an area of low pressure.",
+        "imageUrl": " "
+    },
+    {
+        "word": "delta",
+        "definition": "A landform at the mouth of a river.",
+        "imageUrl": " "
+    },
+    {
+        "word": "drizzle",
+        "definition": "Light rain falling in very fine drops.",
+        "imageUrl": " "
+    },
+    {
+        "word": "drought",
+        "definition": "A prolonged period of low rainfall.",
+        "imageUrl": " "
+    },
+    {
+        "word": "earthquake",
+        "definition": "A sudden and violent shaking of the ground.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ecosystem",
+        "definition": "A biological community of interacting organisms and their environment.",
+        "imageUrl": " "
+    },
+    {
+        "word": "floodplain",
+        "definition": "Flat land near a river that is likely to flood.",
+        "imageUrl": " "
+    },
+    {
+        "word": "foggy",
+        "definition": "Filled with or characterized by fog.",
+        "imageUrl": " "
+    },
+    {
+        "word": "fumarole",
+        "definition": "An opening near a volcano, through which hot sulfurous gases emerge.",
+        "imageUrl": " "
+    },
+    {
+        "word": "glen",
+        "definition": "A narrow valley.",
+        "imageUrl": " "
+    },
+    {
+        "word": "gorge",
+        "definition": "A narrow valley between hills or mountains.",
+        "imageUrl": " "
+    },
+    {
+        "word": "grove",
+        "definition": "A small group of trees.",
+        "imageUrl": " "
+    },
+    {
+        "word": "harbor",
+        "definition": "A place on the coast where ships may moor in shelter.",
+        "imageUrl": " "
+    },
+    {
+        "word": "hill",
+        "definition": "A naturally raised area of land, not as high as a mountain.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ice field",
+        "definition": "An extensive area of interconnected glaciers.",
+        "imageUrl": " "
+    },
+    {
+        "word": "inlet",
+        "definition": "A small arm of the sea, a lake, or a river.",
+        "imageUrl": " "
+    },
+    {
+        "word": "jungle",
+        "definition": "Dense forest in a tropical region.",
+        "imageUrl": " "
+    },
+    {
+        "word": "knoll",
+        "definition": "A small hill or mound.",
+        "imageUrl": " "
+    },
+    {
+        "word": "lava field",
+        "definition": "An area covered by lava from a volcanic eruption.",
+        "imageUrl": " "
+    },
+    {
+        "word": "loch",
+        "definition": "A lake or a sea inlet.",
+        "imageUrl": " "
+    },
+    {
+        "word": "mesa",
+        "definition": "An isolated flat-topped hill with steep sides.",
+        "imageUrl": " "
+    },
+    {
+        "word": "moor",
+        "definition": "An open area of uncultivated land.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ocean floor",
+        "definition": "The bottom surface of the ocean.",
+        "imageUrl": " "
+    },
+    {
+        "word": "outcrop",
+        "definition": "A rock formation that appears above the surface of the surrounding land.",
+        "imageUrl": " "
+    },
+    {
+        "word": "peak",
+        "definition": "The pointed top of a mountain.",
+        "imageUrl": " "
+    },
+    {
+        "word": "plateau",
+        "definition": "An area of flat elevated land.",
+        "imageUrl": " "
+    },
+    {
+        "word": "pond",
+        "definition": "A small body of still water.",
+        "imageUrl": " "
+    },
+    {
+        "word": "precipice",
+        "definition": "A very steep rock face or cliff.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ravine",
+        "definition": "A deep narrow gorge with steep sides.",
+        "imageUrl": " "
+    },
+    {
+        "word": "ridge",
+        "definition": "A long narrow hilltop or mountain range.",
+        "imageUrl": " "
+    },
+    {
+        "word": "savanna",
+        "definition": "A grassy plain in tropical regions with few trees.",
+        "imageUrl": " "
+    },
+    {
+        "word": "scrubland",
+        "definition": "Land covered with stunted vegetation.",
+        "imageUrl": " "
+    },
+    {
+        "word": "shoal",
+        "definition": "A shallow place in a body of water.",
+        "imageUrl": " "
+    },
+    {
+        "word": "sinkhole",
+        "definition": "A cavity in the ground caused by water erosion.",
+        "imageUrl": " "
+    },
+    {
+        "word": "snowdrift",
+        "definition": "A bank of deep snow heaped up by the wind.",
+        "imageUrl": " "
+    },
+    {
+        "word": "sound",
+        "definition": "A narrow stretch of water forming an inlet or connecting two larger areas.",
+        "imageUrl": " "
+    },
+    {
+        "word": "spring",
+        "definition": "A natural source of water from the ground.",
+        "imageUrl": " "
+    },
+    {
+        "word": "stream",
+        "definition": "A small, narrow river.",
+        "imageUrl": " "
+    },
+    {
+        "word": "summit",
+        "definition": "The highest point of a hill or mountain.",
+        "imageUrl": " "
+    },
+    {
+        "word": "swamp",
+        "definition": "An area of low-lying, uncultivated ground.",
+        "imageUrl": " "
+    },
+    {
+        "word": "terrain",
+        "definition": "The physical features of a piece of land.",
+        "imageUrl": " "
+    }
+]
