@@ -9,7 +9,7 @@ const Flashcard = () => {
   useEffect(() => {
     const fetchWords = async () => {
       try {
-        const res = await fetch('http://localhost:5000/api/words');
+        const res = await fetch('https://language-vocabulary-builder.onrender.com/api/words');
         const data = await res.json();
 
         // Filter only words with a valid image URL

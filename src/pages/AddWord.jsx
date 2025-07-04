@@ -16,7 +16,7 @@ const AddWord = () => {
     }
 
     try {
-      const res = await fetch('http://localhost:5000/api/words', {
+      const res = await fetch('https://language-vocabulary-builder.onrender.com/api/words', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
