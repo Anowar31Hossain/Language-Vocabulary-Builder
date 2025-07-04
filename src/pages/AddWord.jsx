@@ -60,15 +60,6 @@ const AddWord = () => {
           onChange={(e) => setDefinition(e.target.value)}
           required
         />
-
-        <label>Bangla Meaning:</label>
-        <textarea
-          placeholder="Write the Bangla meaning of Englis Word"
-          value={definition}
-          onChange={(e) => setDefinition(e.target.value)}
-          required
-        />
-
         <label>Image URL (optional):</label>
         <input
           type="text"
